@@ -31,14 +31,14 @@ This will bring up the replacement table in notepad.
 The format in the replacement table is simple:
 {text}{tab}{symbol}{optional tab}{optional comment}
 
+Anything in the replacement table that does not follow this format will be ignored.
+
 Examples:
 ```
 hello, this line has no tab in it, so it's ignored
 pi  π this is an optional comment
 derpmerp  merpderp
 ```
-
-Anything in the replacement table that does not follow this format will be ignored.
 
 ## Extra tools
 ### desktop_shortcut.cmd
