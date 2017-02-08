@@ -23,7 +23,9 @@ Result: `\l(x) = x_0^2 + x_1^2`
 ### Edit the replacement table
 1. Press ctrl+shift+h
 
-This will bring up the replacement table in notepad
+This will bring up the replacement table in notepad.
+
+WARNING: Make sure to save the replacement table with the correct encoding (Unicode) or some replacements will be irreversably lost.
 
 ## Replacement table format
 The format in the replacement table is simple:
