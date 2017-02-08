@@ -3,7 +3,7 @@ Simple AutoHotkey based text to symbol replacement.
 
 ## Installation instructions
 1. Clone this repository
-2. Run enable_replacements.cmd
+2. Run enable_replacements.cmd whenever you want to use the script
 
 ## Usage
 First make sure that the script is running (see installation instructions)
