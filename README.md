@@ -5,6 +5,7 @@ Simple AutoHotkey based text to symbol replacement.
 1. Clone this repository
 2. Run enable_replacements.cmd whenever you want to use the script
 
+If you have AutoHotkey installed, the .ahk script will be used, otherwise the compiled binary will be used.
 ## Usage
 First make sure that the script is running (see installation instructions)
 
