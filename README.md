@@ -31,12 +31,12 @@ The format in the replacement table is simple:
 
 Examples:
 ```
-hello, this line has no tab in it, so this is just a comment.
-pi  π this will make any occurence of "pi" be replace with "π"! No quotes of course. Notice that this comment is separated by a tab, not a space.
-derpmerp  merpderp  this looks quite different, but it follows the format so this will replace derpmerp with merpderp
+hello, this line has no tab in it, so it's ignored
+pi  π this is an optional comment
+derpmerp  merpderp
 ```
 
-Anything that does not follow this format in the replacement table will be ignored.
+Anything in the replacement table that does not follow this format will be ignored.
 
 ## Extra tools
 ### desktop_shortcut.cmd
