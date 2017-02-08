@@ -33,11 +33,13 @@ The format in the replacement table is simple:
 
 Anything in the replacement table that does not follow this format will be ignored.
 
-Examples:```
-hello, this line has no tab in it, so it's ignored
+Examples:
+```
+this line has no tab in it, so it's ignored
 pi  π this is an optional comment
 derpmerp  merpderp
 ```
+The second line enables pi → π replacement (this is supported with \pi in the supplied replacement table) and the third line enables derpmerp → merpderp replacements.
 
 ## Extra tools
 ### desktop_shortcut.cmd
