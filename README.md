@@ -33,8 +33,7 @@ The format in the replacement table is simple:
 
 Anything in the replacement table that does not follow this format will be ignored.
 
-Examples:
-```
+Examples:```
 hello, this line has no tab in it, so it's ignored
 pi  π this is an optional comment
 derpmerp  merpderp
