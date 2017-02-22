@@ -44,4 +44,4 @@ The second line enables pi ↔ π replacement (this is supported with \pi in the
 
 ## Extra tools
 ### desktop_shortcut.cmd
-Run this to script to create a shortcut on the desktop that points to the script
+Run this to script to create a shortcut on the desktop that points to the replacement script
