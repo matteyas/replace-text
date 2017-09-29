@@ -35,6 +35,6 @@ FOR /F "usebackq delims=" %%i in (`cscript "!this_path!\src\!desktop_script!"`) 
 
 del !desktop_script!
 
-move /y !link_name! !desktop_dir!
+move /y !link_name! "!desktop_dir!"
 
 @echo on
