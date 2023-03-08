@@ -1,5 +1,5 @@
 # replace-text
-Simple AutoHotkey based text replacement tool, using ctrl+shift+c. \
+Simple AutoHotkey based text replacement tool, by selecting text and pressing ctrl+shift+c. \
 Easily configurable; comes with a pre-made symbol_table.txt that can be edited in any texteditor.
 
 Using Unicode symbols, the pre-configured use cases work in most places on the internet these days, including forums, Twitter, messaging apps, etcetera.
