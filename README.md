@@ -28,7 +28,7 @@ Note: The replacement tool will be enabled indefinitely, until you reboot the co
 First make sure that the script is running (see installation instructions)
 
 ### Replacement
-1. Highlight some text for replacement, e.g. `\tau \def 2\pi`
+1. Type some text, highlight what you want to replace, e.g. `\tau \def 2\pi`
 2. Press ctrl+shift+c
 
 Result: `τ ≡ 2π`
