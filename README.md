@@ -1,11 +1,11 @@
 # replace-text
-Simple AutoHotkey based text to symbol replacement.
+Simple AutoHotkey based text to symbol replacement of selected text with ctrl+shift+c. Easily configurable; comes with a pre-made symbol_table.txt that can be edited in any editor.
 
 ## Installation instructions
 1. Clone / download this repository
 2. Run enable_replacements.cmd whenever you want to use the script
 
-If you have AutoHotkey installed, the .ahk script will be used, otherwise the compiled binary will be used.
+On the first run, you'll get to configure whether you have AHK installed or not. Note that if you do not, it will run the compiled executable version of the script.
 ## Usage
 First make sure that the script is running (see installation instructions)
 
@@ -22,7 +22,7 @@ Result: `τ ≡ 2·π`
 Result: `\l(x) = x_0^2 + x_1^2`
 
 ### Edit the replacement table
-**WARNING: Make sure to save the replacement table with the correct encoding (Unicode) or some replacements will be irreversably lost.**
+**WARNING: Make sure to save the replacement table with the correct encoding (unicode) or some replacements will be irreversably lost.**
 
 1. Press ctrl+shift+h
 
